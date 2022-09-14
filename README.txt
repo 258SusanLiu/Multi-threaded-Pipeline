@@ -1,5 +1,5 @@
 How to run program:
-1. gcc --std=gnu99 -pthread -lm -o line_processor Assignment4.c
+1. gcc --std=gnu99 -pthread -lm -o line_processor Multithreaded-Pipeline.c
 2. ./line_processor <input1.txt> output.txt      or      ./line_processor <input1.txt
     a. look at output to see results
   	b. output will show the input entered in
